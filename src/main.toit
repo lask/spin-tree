@@ -13,7 +13,6 @@ main:
   driver.rotate
 
 class A3967:
-
   static FULL_STEP ::= 0b00
   static HALF_STEP ::= 0b10
   static QUARTER_STEP ::= 0b01
