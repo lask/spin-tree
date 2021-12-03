@@ -32,7 +32,7 @@ Compile an ESP32 image from the program:
 cd <path-to-toit-lang>
 make esp32 ESP32_ENTRY=<path-to-spin-tree>/spin-tree/src/main.toit
 ```
-Flash the program by pasting the output from `make esp32` into the terminal.
+Connect the ESP32 to your computer and flash the program by pasting the output from `make esp32` into the terminal.
 
 ### 4. Enjoy the festivities
 Once the program has been flashed, it will start running every time the ESP32 is powered on.
